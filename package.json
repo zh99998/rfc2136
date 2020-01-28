@@ -1,0 +1,24 @@
+{
+  "name": "rfc2136",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "start:watch": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/server.ts"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.5.0",
+    "@types/tough-cookie": "^2.3.5",
+    "fetch-cookie": "^0.7.3",
+    "multikeymap": "^1.0.0",
+    "native-dns": "^0.7.0",
+    "node-fetch": "^2.6.0",
+    "node-named": "git+https://github.com/trevoro/node-named.git",
+    "nodemon": "^1.19.2",
+    "rc": "latest",
+    "tough-cookie": "^3.0.1",
+    "tough-cookie-filestore": "0.0.1",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.6.3",
+    "wildcard2": "latest"
+  }
+}
