@@ -11,7 +11,7 @@
     "fetch-cookie": "^0.7.3",
     "multikeymap": "^1.0.0",
     "native-dns": "^0.7.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "node-named": "git+https://github.com/trevoro/node-named.git",
     "nodemon": "^1.19.2",
     "rc": "latest",
